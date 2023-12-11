@@ -1,4 +1,6 @@
-This data repository contains the scripts used in Smith et al. (2024), Evaluating the Model Representation of Asian Summer Monsoon Upper Troposphere and Lower Stratosphere Transport and Composition using Airborne In Situ Observations.  Processed model files used to generate the paper's figures can be downloaded from https://g-27eb33.7a577b.6fbd.data.globus.org/Smith-2023-PublicationFiles/Smith-2023-PublicationFiles.tar.gz
+This data repository contains the scripts used in Smith et al. (2024), Evaluating the Model Representation of Asian Summer Monsoon Upper Troposphere and Lower Stratosphere Transport and Composition using Airborne In Situ Observations.  
+
+Processed model files used to generate the paper's figures can be downloaded from https://g-27eb33.7a577b.6fbd.data.globus.org/Smith-2023-PublicationFiles/Smith-2023-PublicationFiles.tar.gz
 
 Figure 1 was produced with Figure1.py 
 
